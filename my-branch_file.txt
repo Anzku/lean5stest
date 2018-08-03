@@ -1,3 +1,0 @@
-This file should be visible only in my-branch
-
-This file is changed.
